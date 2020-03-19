@@ -13,7 +13,7 @@ Using the code you will
 
 
 
-## The ource of the the data is the COVID Tracking project and
+## The source is the COVID Tracking project and
 
 Page describing the project
 https://covidtracking.com
